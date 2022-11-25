@@ -29,7 +29,7 @@ body {
   display: flex;
   place-items: center;
   min-width: 320px;
-  min-height: 100vh;
+  min-height: 50vh;
 }
 
 h1 {
@@ -47,9 +47,10 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
+  width: 100%;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #e064ff;
 }
 button:focus,
 button:focus-visible {
@@ -68,3 +69,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+/* 
+@media only screen and (max-width: 500px) {
+  body {
+    max-width: 400px;
+    margin: auto;
+  }
+} */
