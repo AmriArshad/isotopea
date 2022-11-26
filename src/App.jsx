@@ -10,6 +10,7 @@ function App() {
       </p>
       <Link name="Twitter" src="https://twitter.com/a_isotope" />
       <Link name="Instagram" src="https://www.instagram.com/isotope.a/" />
+      <Link name="Ko-fi" src="https://ko-fi.com/isotopea" />
     </div>
   );
 }
