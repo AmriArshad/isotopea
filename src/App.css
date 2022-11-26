@@ -9,6 +9,12 @@
   padding: 5px;
 }
 
+.icon {
+  float: left;
+  vertical-align: middle;
+  margin-top: 2px;
+}
+
 .bio {
   color: #888;
 }

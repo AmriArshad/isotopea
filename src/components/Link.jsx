@@ -1,10 +1,13 @@
 import React from "react";
 
-const Link = ({ name, src }) => {
+const Link = ({ name, icon, src }) => {
   return (
     <div className="link">
       <a href={src} target="_blank">
-        <button>{name}</button>
+        <button>
+          <span className="icon">{icon}</span>
+          {name}
+        </button>
       </a>
     </div>
   );
