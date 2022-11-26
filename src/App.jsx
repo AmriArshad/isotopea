@@ -4,7 +4,7 @@ import Link from "./components/Link";
 function App() {
   return (
     <div className="App">
-      <h1>IsotopeA</h1>
+      <h1>ISOTOPE.A</h1>
       <p className="bio">
         20 // architectural graduate // watercolour, ink & doodles!!! ◡̈
       </p>
