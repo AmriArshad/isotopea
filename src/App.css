@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+.header img {
+  width: 100px;
+}
+
+.bio {
+  color: #888;
+}
+
 .link {
   padding: 5px;
 }
@@ -13,8 +21,4 @@
   float: left;
   vertical-align: middle;
   margin-top: 2px;
-}
-
-.bio {
-  color: #888;
 }

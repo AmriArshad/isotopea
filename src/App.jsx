@@ -1,15 +1,16 @@
 import { SiTwitter, SiInstagram, SiKofi } from "react-icons/si";
 
 import "./App.css";
+import Header from "./components/Header";
 import Link from "./components/Link";
 
 function App() {
   return (
     <div className="App">
-      <h1>ISOTOPE.A</h1>
-      <p className="bio">
-        20 // architectural graduate // watercolour, ink & doodles!!! ◡̈
-      </p>
+      <Header
+        title="ISOTOPE.A"
+        bio="20 // architectural graduate // watercolour, ink & doodles!!! ◡̈"
+      />
       <Link
         name="Twitter"
         icon={<SiTwitter />}

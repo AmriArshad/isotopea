@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 862.814 875.89" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path d="M6.40695 62.9448L56.4069 12.9448L856.407 12.9448L856.407 812.945L806.407 862.945L6.40695 862.945L6.40695 62.9448Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M56.4069 12.9448L856.407 12.9448L856.407 812.945L56.4069 812.945L56.4069 12.9448Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M56.4069 12.9448L856.407 12.9448L856.407 812.945L56.4069 812.945L56.4069 12.9448Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M106.407 62.9448L806.407 62.9448L806.407 762.945L106.407 762.945L106.407 62.9448Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M206.407 412.945L356.407 412.945L356.407 562.945L206.407 562.945L206.407 412.945Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M106.407 762.945L206.407 562.945" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M106.407 62.9448L206.407 412.945" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M356.407 562.945L806.407 762.945" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M356.407 412.945L806.407 62.9448" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+</g>
+</g>
+</svg>
