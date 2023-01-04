@@ -1,4 +1,4 @@
-import { SiTwitter, SiInstagram, SiKofi } from "react-icons/si";
+import { SiTwitter, SiInstagram, SiKofi, SiPinterest } from "react-icons/si";
 
 import "./App.css";
 import Header from "./components/Header";
@@ -20,6 +20,11 @@ function App() {
         name="Instagram"
         icon={<SiInstagram />}
         src="https://www.instagram.com/isotope.a/"
+      />
+      <Link
+        name="Pinterest"
+        icon={<SiPinterest />}
+        src="https://www.pinterest.nz/amraarshad1/"
       />
       <Link name="Ko-fi" icon={<SiKofi />} src="https://ko-fi.com/isotopea" />
     </div>
